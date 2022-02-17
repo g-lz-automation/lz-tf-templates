@@ -1,0 +1,14 @@
+/* 
+Copyright 2021 Google LLC. This software is provided as-is, without warranty or representation for any use or purpose. 
+Your use of it is subject to your agreement with Google.
+*/
+
+
+prod_env                  = "prod"
+nonprod_env               = "nonprod"
+networking_appID_system   = "networking"
+org_id                    = "000000000000"
+prod_networking_folder_id = "000000000000"
+np_networking_folder_id   = "000000000000"
+billing_account           = "XXXXX-XXXXX-XXXXX"
+activate_apis             = ["cloudresourcemanager.googleapis.com", "dns.googleapis.com", "servicenetworking.googleapis.com"]

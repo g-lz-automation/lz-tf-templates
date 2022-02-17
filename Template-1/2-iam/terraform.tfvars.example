@@ -1,0 +1,11 @@
+/* 
+Copyright 2021 Google LLC. This software is provided as-is, without warranty or representation for any use or purpose. 
+Your use of it is subject to your agreement with Google.
+*/
+
+
+org_id = ""
+billing_account_id = ""
+finance_billing_admin_group = "billing_admin_group@example.com"
+super_admin_group           = "super_admin_group@example.com"
+security_auditor_group      = "security_auditor_group@example.com"
